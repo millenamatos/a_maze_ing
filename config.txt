@@ -1,0 +1,7 @@
+WIDTH: (largura do labirinto em número de células)
+HEIGHT: (altura do labirinto)
+ENTRY: (coordenadas de entrada no formato "x,y")
+EXIT: (coordenadas de saída no formato "x,y")
+OUTPUT_FILE: (nome do arquivo onde o resultado será gravado)
+PERFECT: (define o modo estrutural do labirinto, 
+        true = caminho único e false = modo pacman)
