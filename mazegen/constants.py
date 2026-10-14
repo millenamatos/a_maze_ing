@@ -5,3 +5,11 @@ WEST: int = 8
 
 Coord = tuple[int, int]
 Grid = list[list[int]]
+
+FORTY_TWO = [
+        "X...XXX",
+        "X.....X",
+        "XXX.XXX",
+        "..X.X..",
+        "..X.XXX",
+]
