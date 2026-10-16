@@ -13,3 +13,10 @@ FORTY_TWO = [
         "..X.X..",
         "..X.XXX",
 ]
+
+DIRECTIONS = [
+        (0, -1, NORTH, SOUTH),
+        (1, 0, EAST, WEST),
+        (0, 1, SOUTH, NORTH),
+        (-1, 0, WEST, EAST),
+]
